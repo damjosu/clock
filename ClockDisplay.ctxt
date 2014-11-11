@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ClockDisplay()
+comment0.text=\r\n\ Set\ the\ clock's\ initial\ values\ to\ 0\ and\ 0.\r\n
+comment1.params=
+comment1.target=void\ timeTick()
+comment1.text=\r\n\ Adds\ a\ minute\ to\ the\ current\ time.\r\n
+comment2.params=givenHour\ givenMinute
+comment2.target=void\ setTime(int,\ int)
+comment2.text=\r\n\ Set\ the\ current\ time\ to\ the\ given\ values.\r\n
+comment3.params=
+comment3.target=void\ getTime()
+comment3.text=\r\n\ Gives\ you\ the\ current\ time\ in\ the\ 24h\ format.\r\n
+numComments=4
